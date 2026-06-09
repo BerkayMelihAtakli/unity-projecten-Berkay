@@ -413,7 +413,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b02ea0a049a9194393681dbd2aea3ff, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectHit
+  m_EditorClassIdentifier: "Assembly-CSharp::ObjectH\u0131t"
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -665,7 +665,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b02ea0a049a9194393681dbd2aea3ff, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectHit
+  m_EditorClassIdentifier: "Assembly-CSharp::ObjectH\u0131t"
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -839,7 +839,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b02ea0a049a9194393681dbd2aea3ff, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectHit
+  m_EditorClassIdentifier: "Assembly-CSharp::ObjectH\u0131t"
 --- !u!1 &981460729
 GameObject:
   m_ObjectHideFlags: 0
@@ -1077,7 +1077,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b02ea0a049a9194393681dbd2aea3ff, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectHit
+  m_EditorClassIdentifier: "Assembly-CSharp::ObjectH\u0131t"
 --- !u!1 &1225326718
 GameObject:
   m_ObjectHideFlags: 0
@@ -1202,7 +1202,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b02ea0a049a9194393681dbd2aea3ff, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectHit
+  m_EditorClassIdentifier: "Assembly-CSharp::ObjectH\u0131t"
 --- !u!1 &1567537776
 GameObject:
   m_ObjectHideFlags: 0
@@ -1212,7 +1212,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1567537777}
-  - component: {fileID: 1567537778}
   m_Layer: 0
   m_Name: Environment
   m_TagString: Untagged
@@ -1244,18 +1243,6 @@ Transform:
   - {fileID: 1865581848}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1567537778
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1567537776}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b02ea0a049a9194393681dbd2aea3ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectHit
 --- !u!1 &1677165538
 GameObject:
   m_ObjectHideFlags: 0
@@ -1380,7 +1367,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b02ea0a049a9194393681dbd2aea3ff, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectHit
+  m_EditorClassIdentifier: "Assembly-CSharp::ObjectH\u0131t"
 --- !u!1 &1677897406
 GameObject:
   m_ObjectHideFlags: 0
@@ -1505,7 +1492,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b02ea0a049a9194393681dbd2aea3ff, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectHit
+  m_EditorClassIdentifier: "Assembly-CSharp::ObjectH\u0131t"
 --- !u!1 &1713614019
 GameObject:
   m_ObjectHideFlags: 0
@@ -1739,7 +1726,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b02ea0a049a9194393681dbd2aea3ff, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectHit
+  m_EditorClassIdentifier: "Assembly-CSharp::ObjectH\u0131t"
 --- !u!1 &1865581847
 GameObject:
   m_ObjectHideFlags: 0
@@ -1864,7 +1851,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3b02ea0a049a9194393681dbd2aea3ff, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectHit
+  m_EditorClassIdentifier: "Assembly-CSharp::ObjectH\u0131t"
 --- !u!1 &2099662267
 GameObject:
   m_ObjectHideFlags: 0
